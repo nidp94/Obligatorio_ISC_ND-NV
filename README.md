@@ -78,7 +78,7 @@ Para lograr la ejecución automatizada luego de tener la infraestructura subyace
 
 Al finalizar su ejecución, el script desplegará la URL del LoadBalancer para acceder al sitio web.
 
-Resultado final del despliegue:
+### Resultado final del despliegue
 
 ![Pods](images/pods.png)
 

@@ -23,6 +23,8 @@ Instancias EC2 "t2.medium" (con auto-scaling)
 ## Generación de imágenes
 A partir de los archivos dockerfile provistos se generaron las imagenes Docker, las cuales se centralizaron en Dockerhub para luego ser utilizadas en el deploy.
 
+![dockerhub-images](images/dockerhub-images.png)
+
 ## Infraestructura de base en AWS
 
 Mediante el uso de la herramienta de IaC Terraform, se describió todo el despliegue, logrando su automatización completa.

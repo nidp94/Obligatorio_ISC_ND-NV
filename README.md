@@ -78,6 +78,8 @@ Para lograr la ejecución automatizada luego de tener la infraestructura subyace
 
 Al finalizar su ejecución, el script desplegará la URL del LoadBalancer para acceder al sitio web.
 
+![Pods](images/pods.png)
+
 ---
 **Nicolás Díaz 194778**\
 **Nicolás Varela 159693**
